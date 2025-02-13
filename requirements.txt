@@ -1,0 +1,4 @@
+Streamlit
+Transformers
+Torch
+nltk
