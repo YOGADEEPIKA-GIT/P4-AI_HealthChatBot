@@ -1,0 +1,44 @@
+
+{
+    "Fever": "Common causes include viral infections, bacterial infections, and inflammatory conditions. Treatment includes taking paracetamol or ibuprofen, staying hydrated, and resting. Seek medical attention if fever persists for more than 3 days.",
+
+    "Headache": "Causes include stress, dehydration, migraines, or sinus infections. Over-the-counter medications such as ibuprofen, aspirin, and acetaminophen can help. Severe headaches or migraines may require prescribed medication like triptans.",
+
+    "Cold & Flu": "Symptoms include a runny nose, sore throat, sneezing, and body aches. Treatment includes rest, hydration, decongestants, antihistamines, and vitamin C supplements. Avoid antibiotics unless prescribed.",
+
+    "Cough": "Dry cough may be caused by allergies, infections, or acid reflux. Wet cough is often due to respiratory infections. Remedies include honey, warm fluids, and cough syrups. Persistent cough requires medical evaluation.",
+
+    "Stomach Pain": "Causes include indigestion, gastritis, or infections. Treatment depends on the cause: Antacids for acidity, probiotics for digestion, and hydration for food poisoning. If severe, consult a doctor.",
+
+    "Diarrhea": "Often caused by infections, food poisoning, or certain medications. Treatment includes drinking ORS (Oral Rehydration Solution), probiotics, and avoiding dairy and greasy foods. Seek help if dehydration occurs.",
+
+    "Constipation": "Caused by low fiber intake, dehydration, or stress. Remedies include eating fiber-rich foods (fruits, vegetables, whole grains), drinking more water, and regular exercise. Laxatives should be used only if necessary.",
+
+    "Hypertension (High Blood Pressure)": "Risk factors include stress, obesity, and high salt intake. Management includes reducing sodium, exercising, avoiding alcohol and smoking, and taking prescribed medications if needed.",
+
+    "Diabetes": "Characterized by high blood sugar levels. Managed through balanced diet, exercise, weight management, and medications like insulin for Type 1 or Metformin for Type 2.",
+
+    "Heartburn & Acid Reflux": "Caused by spicy foods, overeating, or lying down after meals. Treatment includes antacids, avoiding trigger foods, and eating smaller meals.",
+
+    "Anemia": "A condition caused by low iron levels, leading to fatigue and weakness. Treatment includes iron-rich foods (spinach, red meat, lentils) or iron supplements.",
+
+    "Allergies": "Symptoms include sneezing, itching, and skin rashes. Treatment involves antihistamines, avoiding allergens, and using prescribed allergy medications.",
+
+    "Asthma": "A chronic respiratory condition causing wheezing and breathlessness. Treatment includes inhalers (bronchodilators and corticosteroids) and avoiding triggers like dust or pollen.",
+
+    "Skin Infections": "Caused by bacteria, fungi, or viruses. Treatment includes antibacterial or antifungal creams and proper hygiene.",
+
+    "Urinary Tract Infections (UTI)": "Symptoms include frequent urination, burning sensation, and pelvic pain. Treated with antibiotics and increased water intake.",
+
+    "Back Pain": "Causes include poor posture, muscle strain, or herniated discs. Remedies include rest, physiotherapy, pain relievers, and maintaining good posture.",
+
+    "Arthritis": "Involves joint pain and stiffness. Treatment includes anti-inflammatory medications, physiotherapy, and a healthy diet.",
+
+    "Depression & Anxiety": "Symptoms include sadness, fatigue, and loss of interest. Treatment involves therapy, exercise, meditation, and prescribed medications if needed.",
+
+    "Insomnia": "Difficulty sleeping due to stress, anxiety, or poor sleep hygiene. Remedies include maintaining a regular sleep schedule, reducing screen time before bed, and relaxation techniques.",
+
+    "COVID-19": "Symptoms include fever, cough, loss of taste/smell, and difficulty breathing. Preventative measures include vaccination, social distancing, and wearing masks. Seek medical care if symptoms worsen.",
+
+    "Dehydration": "Symptoms include dry mouth, fatigue, and dizziness. Treatment includes drinking plenty of water, consuming electrolyte solutions, and avoiding caffeine/alcohol."
+}
